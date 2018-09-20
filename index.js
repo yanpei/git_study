@@ -4,5 +4,3 @@ console.log("hah");
 console.log("ahah");
 console.log("finish");
 
-console.log("hah");
-
